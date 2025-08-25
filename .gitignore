@@ -1,0 +1,22 @@
+# .NET
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.log
+*.nlog*
+*.ldf
+*.mdf
+*.svclog
+TestResult*/
+.vs/
+.nuget/
+# Rider/VS Code
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# OS
+.DS_Store
+Thumbs.db
