@@ -69,4 +69,4 @@ dotnet run --project outputClient
 Configuration such as limits/endpoints/logging is in `gasPressure/appsettings.json` (and Development override).
 
 ## License
-Default: MIT (see LICENSE).
+Default: MIT (see [`LICENSE`](./LICENSE)).
